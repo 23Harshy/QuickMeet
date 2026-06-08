@@ -1,2 +1,2 @@
-# Zoom
+# QuickMeet
 A full stack video conferencing web application.
