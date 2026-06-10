@@ -6,7 +6,7 @@ A full-stack **real-time video conferencing web application** built with the MER
 
 ## 🚀 Live Demo
 
-> _Coming Soon_ — Deploy on Render / Vercel and update this link.
+> _Coming Soon_ 
 
 ---
 
