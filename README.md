@@ -12,14 +12,33 @@ A full-stack **real-time video conferencing web application** built with the MER
 
 ## 📸 Screenshots
 
-```
+Home Page
 ![Landing Page](./ScreenShot/Home.png)
+
+---
+
+Signup
 ![User sign-up](./ScreenShot/Sign_up.png)
+
+---
+
+Signin
 ![User sign-in](./ScreenShot/Sign_in.png)
+
+---
+
+Enter Meeting Code
 ![Meeting code](./ScreenShot/Meeting-code.png)
+
+---
+
+Meeting Room
 ![Meeting Room](./ScreenShot/Meeting-room.png)
+
+---
+
+Chat Panel
 ![Chat Panel](./ScreenShot/Chat.png)
-```
 
 ---
 
